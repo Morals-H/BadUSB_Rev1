@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USBA_2.0_Male")(type "KiCad")(uri "${KIPRJMOD}/Footprints/USBA_2.0_Male/2025-03-28_16-42-05.kicad_sym")(options "")(descr ""))
+)
